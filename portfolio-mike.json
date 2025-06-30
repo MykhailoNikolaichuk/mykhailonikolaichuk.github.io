@@ -1,0 +1,128 @@
+{
+  "name": "Mykhailo Nikolaichuk",
+  "label": "Software Engineer",
+  "image_path": "mike_media/me.jpg",
+  "contact": {
+    "email": "mykhailo.nikolaichuk@gmail.com",
+    "phone": "+380633020700",
+    "tg": "https://t.me/prockman",
+    "github_page":"mykhailonikolaichuk.github.io",
+    "location": "Sheptytsky, Lviv Region, Ukraine"
+  },
+  "summary": "Software engineer specializing in Python automation and internal tool development, with experience in Flask web applications and building efficient, user-centric software solutions.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+     {
+      "label": "",
+      "url": "https://mykhailonikolaichuk.github.io",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "telegram",
+      "url": "https://t.me/prockman",
+      "svg_path": "img/telegram.svg"
+    },
+    {
+      "label": "linkedin",
+      "url": "https://www.linkedin.com/in/mykhailo-nikolaichuk-5b382b110/",
+      "svg_path": "img/linkedin.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "GlobalLogic",
+      "position": "Python Software Engineer",
+      "url": "https://www.globallogic.com/",
+      "start_date": "12/2020",
+      "end_date": "09/2024",
+      "summary": "Worked as a Python Software Engineer on automation tools and internal frameworks for a client developing multimedia and IoT devices.",
+      "highlights": [
+        "Developed a tool to capture build state using an internal framework with data and screenshot collection",
+        "Stored and visualized data using Flask and AWS, with output via FastAPI or Jinja2-based PDF export",
+        "Expanded internal automation framework to support new IoT devices",
+        "Creating and managing various GitLab pipelines and Jenkins jobs for CI/CD integration",
+        "Built wrappers and classes for executing 3rd-party API calls within the internal framework"
+      ]
+    },
+    {
+      "company": "Gameloft",
+      "position": "JS/Python Automation Engineer",
+      "url": "https://www.gameloft.com/",
+      "start_date": "04/2018",
+      "end_date": "11/2020",
+      "summary": "Worked as a Python/JS QA Automation Engineer focusing on automation for mobile platforms.",
+      "highlights": [
+        "Developed automation scripts for iOS and Android devices",
+        "Contributed to migrating internal automation tools from JavaScript to Python",
+        "Created a VueJS-based web dashboard to visualize automation script statistics"
+      ]
+    }
+  ],
+  "projects": [
+  ],
+  "volunteer_experience": [
+   ],
+  "education": [
+    {
+      "institution": "State University 'Lviv Polytechnics'",
+      "location": "Lviv, Ukraine",
+      "url": "https://lpnu.ua/",
+      "degrees": [
+        "Specialist's Degree, Computer Software Engineering",
+        "Bachelor's Degree, Computer Software Engineering"
+      ],
+      "graduation_date": "2017"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python, Flask",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "FastAPI, Playwright, Selenium, SQLAlchemy, Jenkins, Gitlab, Linux",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    },
+    {
+      "name": "AWS, Django, JavaScript, HTML, CSS",
+      "proficiency": 60,
+      "proficiency_label": "Intermediate"
+    }
+  ],
+  "interests": [
+        {
+      "name": "Cycling",
+      "summary": "I love ride my bike, no matter where, no matter when.",
+      "images": [
+        {
+          "img_path": "mike_media/cycle1.jpg",
+          "caption": "Near Bruhovichy 2024"
+        }
+      ]
+    },
+    {
+      "name": "Gaming",
+      "summary": "I used to play competetive games like WoW and LoL, now I'm more into co-op or story games.",
+      "images": [
+        {
+          "img_path": "mike_media/game1.jpg",
+          "caption": "League of Legends 2022"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Upper Intermediate"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "references": [
+  ]
+}
