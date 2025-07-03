@@ -59,6 +59,29 @@
     }
   ],
   "projects": [
+    {
+      "title": "Steam Market Crawler",
+      "summary": "Bot that monitors Steam and 3rd-party marketplaces for undervalued skins with specific charm patterns.",
+      "url": "",
+      "highlights": [
+        "Monitors Steam, CSFloat, DMarket, and CSMoney",
+        "Twice per day perform deep scan of charm and visualizes pattern/price diagrams",
+        "Sends instant Telegram notifications for good deals",
+        "Runs 24/7 using cron jobs on a Raspberry Pi 4",
+        "Current ROI exceeds 145%"
+      ],
+      "images": [
+        {
+          "img_path": "mike_media/bot1.png",
+          "caption": "Example of generated diagram"
+        },
+        {
+          "img_path": "mike_media/bot2.jpg",
+          "caption": "Example of sales statistic"
+        }
+
+      ]
+    }
   ],
   "volunteer_experience": [
    ],
