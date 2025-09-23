@@ -4,7 +4,6 @@
   "image_path": "mike_media/me.jpg",
   "contact": {
     "email": "mykhailo.nikolaichuk@gmail.com",
-    "phone": "+380633020700",
     "tg": "https://t.me/prockman",
     "github_page":"mykhailonikolaichuk.github.io",
     "location": "Sheptytsky, Lviv Region, Ukraine"
@@ -29,6 +28,17 @@
     }
   ],
   "work_experience": [
+    {
+      "company": "SQUAD",
+      "position": "Python SDET",
+      "url": "https://squad.ua/",
+      "start_date": "8/2025",
+      "end_date": "now",
+      "summary": "Working as a Python SDET on firmware automation and internal framework for a client that produce IoT devices.",
+      "highlights": [
+        "Expanded internal automation framework to support new IoT devices and its capabilities"
+      ]
+    },
     {
       "company": "GlobalLogic",
       "position": "Python Software Engineer",
